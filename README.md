@@ -2,11 +2,11 @@
 repositorio basico destinado ao aprendizado de HTML e CSS
 
 ##CSS inline
-https://viniciusvicentini.github.io/Meu_Primeiro_Site/CSSinline
+https://viniciusvicentini.github.io/Meu_Primeiro_Site/CSS_INLINE
 
 ##CSS interno
-https://viniciusvicentini.github.io/Meu_Primeiro_Site/CSSinterno
+https://viniciusvicentini.github.io/Meu_Primeiro_Site/CSS_INTERNO
 
 
 ##CSS externo
-https://viniciusvicentini.github.io/Meu_Primeiro_Site/CSSexterno
+https://viniciusvicentini.github.io/Meu_Primeiro_Site/CSS_EXTERNO
