@@ -10,3 +10,6 @@ https://viniciusvicentini.github.io/Meu_Primeiro_Site/CSS_INTERNO/css_interno.ht
 
 ##CSS externo
 https://viniciusvicentini.github.io/Meu_Primeiro_Site/CSS_EXTERNO/css_externo.html
+
+# Projeto do Proximo Site
+https://viniciusvicentini.github.io/Meu_Primeiro_Site/https:/index.html
