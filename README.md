@@ -13,5 +13,5 @@ https://viniciusvicentini.github.io/Meu_Primeiro_Site/CSS_EXTERNO/css_externo.ht
 
 # Projeto do Proximo Site
 
-##Projeto IA
-https://viniciusvicentini.github.io/Meu_Primeiro_Site/siteia/index.html
+##Looney Tunes Site
+https://viniciusvicentini.github.io/Meu_Primeiro_Site/site_lty/index.html
