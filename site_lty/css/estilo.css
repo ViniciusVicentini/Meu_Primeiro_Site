@@ -196,12 +196,11 @@ header .container{
     margin-bottom: 10px;
 }
 
-.card{
+.modal {
     background: white;
     padding: 20px;
     border-radius: 12px;
     box-shadow: 0 4px 10px #000000;
-    max-width: 300px;
     margin: auto;
     text-align: center;
 }
@@ -225,6 +224,7 @@ header .container{
     position: fixed;
     top: 0;
     left: 0;
+    right: 0%;
     width: 100vw;
     height: 100vh;
     background:#292929;
